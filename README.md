@@ -1,20 +1,35 @@
-```yaml
-name: Emily Ekstrum
-located: CU Anschutz Comp Bio PhD program
+# Hi, I'm Emily  
 
-education: Bachelor's in Biology & Data Science
-```
+- First-year **Computational Biology PhD student** at CU Anschutz 
+- Bachelor's in Biology & Data Science from Creighton University
+- Interested in bioinformatics, machine learning, and computational methods 
 
-<h2> &nbsp;Some Tools I Have Used</h2>
+---
+
+## Tools I've Used
+
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="rstudio" width="45" height="45"/>
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45"/>    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="RStudio" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/emilyekstrum/emilyekstrum/blob/output/github-contribution-grid-snake.svg)
+---
 
-[![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilyekstrum)](https://github.com/emilyekstrum/github-readme-stats)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=emily.ekstrum844&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+## GitHub Stats & Spotify  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emilyekstrum&show_icons=true&theme=radical" alt="Emily's GitHub stats" height="160"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=emily.ekstrum844&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify profile" height="160"/>
+</p>
+
+---
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/emilyekstrum/)  
+- emily.ekstrum@cuanschutz.edu 
