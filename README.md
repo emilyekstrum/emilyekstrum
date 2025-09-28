@@ -2,7 +2,7 @@
 
 ## About Me
 
-- First-year **Computational Biology PhD student** at CU Anschutz 
+- First-year **Computational Biosciences PhD student** at CU Anschutz 
 - Bachelor's in Biology & Data Science from Creighton University
 - Interested in bioinformatics, machine learning, and computational methods 
 
