@@ -21,9 +21,10 @@
 ---
 
 ## GitHub Stats & Spotify  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emilyekstrum&show_icons=true&theme=radical" alt="Emily's GitHub stats" height="160"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyekstrum&layout=compact&theme=radical" alt="Top Languages" height="160"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=emily.ekstrum844&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify profile" height="160"/>
 </p>
