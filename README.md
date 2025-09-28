@@ -41,7 +41,29 @@
 
 ---
 
-## Contact
+## Contact 
 
-- [LinkedIn](https://www.linkedin.com/in/emilyekstrum/)  
-- emily.ekstrum@cuanschutz.edu 
+<p align="left">
+  <a href="https://www.linkedin.com/in/emilyekstrum/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/emilyekstrum" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:emily.ekstrum@cuanschutz.edu">
+    <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" alt="University Email" width="40" height="40"/>
+  </a>
+    &nbsp;&nbsp;&nbsp;
+  <a href="#" title="Google Scholar (coming soon)">
+    <img src="https://img.icons8.com/color/48/000000/google-scholar--v3.png" alt="Google Scholar" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#" title="ORCID (coming soon)">
+    <img src="https://img.icons8.com/windows/48/000000/orcid.png" alt="ORCID" width="40" height="40"/>
+  </a>
+
+</p>
+
+
