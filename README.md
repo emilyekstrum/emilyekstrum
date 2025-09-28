@@ -26,7 +26,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyekstrum&layout=compact&theme=radical" alt="Top Languages" height="160" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=emilyekstrum844&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Now Playing" height="160" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=emily.ekstrum844&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Now Playing" height="160" />
 </p>
 
 
