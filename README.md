@@ -4,7 +4,7 @@
 
 - First-year **Computational Biosciences PhD student** at the University of Colorado - Anschutz 
 - Bachelor's in Biology & Data Science from Creighton University
-- Interested in bioinformatics, machine learning, and developing computational methods 
+- Interested in developing computational analysis pipelines for complex biological data  
 
 ---
 
