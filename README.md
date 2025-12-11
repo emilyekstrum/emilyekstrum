@@ -30,19 +30,6 @@
 ---
 
 
-## My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emilyekstrum&show_icons=true&theme=radical" alt="Emily's GitHub stats" height="160" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyekstrum&layout=compact&theme=radical" alt="Top Languages" height="160" />
-  &nbsp;&nbsp;&nbsp;
-
-</p>
-
-
----
-
-
 ## Contact 
 
 <p align="left">
