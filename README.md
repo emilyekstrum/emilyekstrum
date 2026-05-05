@@ -27,6 +27,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="45" height="45"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pytorch.svg" alt="PyTorch" width="45" height="45" /></td></td>
   </tr>
 </table>
 
